@@ -1,7 +1,5 @@
 ## 👋 Hi there
 
-### I'm **Srishti Singh**
-
 Hi, I’m Srishti Singh — a 3rd-year B.Tech Computer Science student passionate about building web projects, learning DSA, and exploring practical software solutions to real-world problems. I love learning something new every day and continuously discovering more in the tech world.
 
 ---
