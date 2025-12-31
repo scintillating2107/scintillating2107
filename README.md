@@ -15,9 +15,6 @@ Designing scalable project structures, strengthening algorithmic thinking, and e
 🌱 **I’m currently learning**  
 Full-stack development, data structures & algorithms, and practical software development workflows.
 
-💬 **Ask me about**  
-My projects, learning journey, problem-solving approach, and how I apply concepts in real applications.
-
 ⚡ **Fun fact**  
 I enjoy turning everyday problems into small software solutions and improving them step by step 😄
 
