@@ -1,18 +1,18 @@
 ## 👋 Hi there
 
-Hi, I’m Srishti Singh — a final year B.Tech Computer Science student passionate about building web projects, learning DSA, and exploring practical software solutions to real-world problems. I love learning something new every day and continuously discovering more in the tech world.
+Hi, I'm Srishti Singh — a final year B.Tech Computer Science student passionate about building web projects, learning DSA, and exploring practical software solutions to real-world problems. I love[...]
 
 ---
 
 ## 💫 About Me
 
-🤝 **I’m looking to collaborate on**  
+🤝 **I'm looking to collaborate on**  
 Open-source projects, real-world problem statements, and projects focused on building optimized and impactful software solutions.
 
-🧩 **I’m looking for help with**  
+🧩 **I'm looking for help with**  
 Designing scalable project structures, strengthening algorithmic thinking, and exploring deeper areas of technology.
 
-🌱 **I’m currently learning**  
+🌱 **I'm currently learning**  
 Full-stack development, data structures & algorithms, and practical software development workflows.
 
 ⚡ **Fun fact**  
@@ -79,13 +79,13 @@ I enjoy turning everyday problems into small software solutions and improving th
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=scintillating2107&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=scintillating2107&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scintillating2107&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+--- -->
 
 ### ✍️ Random Dev Quote
 
@@ -94,5 +94,4 @@ I enjoy turning everyday problems into small software solutions and improving th
 ---
 
 [![](https://visitcount.itsvg.in/api?id=scintillating2107&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
