@@ -79,7 +79,7 @@ I enjoy turning everyday problems into small software solutions and improving th
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=scintillating2107&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=scintillating2107&theme=dark&hide_border=false)<br/>
